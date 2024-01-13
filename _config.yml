@@ -3,8 +3,9 @@ title: "Harry's Website"
 author:
   name: Byungyeon Kim
   email: harrykim030827@gmail.com
+description: Student at Rensselaer Polytechnic Institute
 github_username: harry251
-resume: https://github.com/harry251/harry251.github.io/blob/4-add-a-resume/Byungyeon%20Kim.pdf
+resume: https://github.com/harry251/harry251.github.io/blob/main/Byungyeon%20Kim.pdf
 
 # Build settings
 theme: jekyll-theme-minimal
